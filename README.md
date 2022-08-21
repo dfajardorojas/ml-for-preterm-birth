@@ -1,1 +1,1 @@
-# ml-for-preterm-birth
+This repository contains the implementation of the models described in the report titled Predicting Gestational Age at Birth in the Context of Preterm Birth Using Medical History, MRI, and Ultrasound Data.
